@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246050069975",
+    "project_id": "the-big-app-517e5",
+    "storage_bucket": "the-big-app-517e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246050069975:android:036d570f283458fb7fbf92",
+        "android_client_info": {
+          "package_name": "com.example.thebigman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246050069975-28ja32oj9l5sjmfdt4pp5rpk75922kb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDimwrl617cfwtJ2oBhExnN8bd1VftG4ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246050069975-28ja32oj9l5sjmfdt4pp5rpk75922kb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
